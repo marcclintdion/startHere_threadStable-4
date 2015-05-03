@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1410972408 source:c:\marcclintdion\documents\content_glsl\!!!!_elements_of_zelda\threading\starthere_threadstable 4\cpp\wgl_arb_multisample.cpp
+	<cassert>
+	<cstdio>
+	<cstring>
+	"../headerFiles/WGL_ARB_multisample.h"
+
+1346469962 c:\marcclintdion\documents\content_glsl\!!!!_elements_of_zelda\threading\starthere_threadstable 4\headerfiles\wgl_arb_multisample.h
+	<windows.h>
+	<GL/gl.h>
+
